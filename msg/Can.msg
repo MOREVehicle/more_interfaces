@@ -1,2 +1,2 @@
 uint32 id
-byte[8] data
+uint8[8] data
